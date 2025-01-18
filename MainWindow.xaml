@@ -7,34 +7,29 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="720" Width="1280">
     <Grid>
+        <!-- Navigation -->
         <Grid>
             <Rectangle Fill="#0D1B2A" StrokeThickness="1" Margin="0,0,1180,0"/>
         </Grid>
         
-        <!-- -->
+        <!-- Sub Navigation -->
         <Grid>
+            <Rectangle Stroke="Black" Margin="100,0,886,641"/>
             <Rectangle Fill="#415A77" Margin="100,0,886,0" Height="704" VerticalAlignment="Top"/>
+            <Rectangle Fill="#1B263B" Margin="100,614,886,0"/>
         </Grid>
         
-        <Rectangle Fill="#1B263B" Margin="100,614,886,0"/>
-        <Rectangle Stroke="Black" Margin="100,0,886,641"/>
-        <Rectangle Fill="#778DA9" Stroke="Black" Margin="394,0,0,641"/>
-        <Rectangle Fill="#778DA9" Margin="394,63,0,0"/>
+        <!-- Messages layout -->
+        <Grid>
+            <Rectangle Fill="#778DA9" Stroke="Black" Margin="394,0,0,641"/>
+            <Rectangle Fill="#778DA9" Margin="394,63,0,0"/>
+        </Grid>
 
-        <Rectangle Fill="#0D1B2A" StrokeThickness="1" Margin="989,63,0,0"/>
-        <Rectangle Fill="#0D1B2A" Stroke="#778DA9" StrokeThickness="1" Margin="989,614,-1,0" Height="91" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
-            <Rectangle.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform/>
-                    <SkewTransform AngleY="0.295"/>
-                    <RotateTransform/>
-                    <TranslateTransform Y="0.798"/>
-                </TransformGroup>
-            </Rectangle.RenderTransform>
-        </Rectangle>
-        <Rectangle Fill="White" Margin="989,63,0,522"/>
-
-
-
+        <!-- Information layout -->
+        <Grid>
+            <Rectangle Fill="#0D1B2A" StrokeThickness="1" Margin="989,63,0,0"/>
+            <Rectangle Fill="#0D1B2A" Stroke="#778DA9" StrokeThickness="1" Margin="989,614,-1,0" Height="91" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5"></Rectangle>
+            <Rectangle Fill="White" Margin="989,63,0,522"/>
+        </Grid>
     </Grid>
 </Window>
