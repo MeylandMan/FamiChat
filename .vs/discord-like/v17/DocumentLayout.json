@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{EDB8BC72-2DEE-44E0-AD21-085DD0FF3513}|discord-like.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDB8BC72-2DEE-44E0-AD21-085DD0FF3513}|discord-like.csproj|c:\\users\\client\\documents\\github\\famichat\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDB8BC72-2DEE-44E0-AD21-085DD0FF3513}|discord-like.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDB8BC72-2DEE-44E0-AD21-085DD0FF3513}|discord-like.csproj|c:\\users\\client\\documents\\github\\famichat\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8BC72-2DEE-44E0-AD21-085DD0FF3513}|discord-like.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T18:42:56.977Z",
+              "WhenOpened": "2025-01-18T19:30:36.923Z",
               "EditorCaption": ""
             },
             {
