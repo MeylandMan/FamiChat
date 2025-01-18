@@ -18,3 +18,4 @@ C:\Users\Client\Documents\GitHub\FamiChat\obj\Debug\net8.0-windows\refint\discor
 C:\Users\Client\Documents\GitHub\FamiChat\obj\Debug\net8.0-windows\discord-like.pdb
 C:\Users\Client\Documents\GitHub\FamiChat\obj\Debug\net8.0-windows\discord-like.genruntimeconfig.cache
 C:\Users\Client\Documents\GitHub\FamiChat\obj\Debug\net8.0-windows\ref\discord-like.dll
+C:\Users\Client\Documents\GitHub\FamiChat\obj\Debug\net8.0-windows\discord-like.sourcelink.json
