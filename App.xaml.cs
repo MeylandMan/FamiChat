@@ -9,6 +9,7 @@ namespace discord_like
     /// </summary>
     public partial class App : Application
     {
+
     }
 
 }

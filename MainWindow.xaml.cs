@@ -20,5 +20,31 @@ namespace discord_like
         {
             InitializeComponent();
         }
+
+        // Allow dragging the window
+        private void TitleBar_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (e.LeftButton == MouseButtonState.Pressed)
+                DragMove();
+        }
+
+        // Minimize the window
+        private void Minimize_Click(object sender, RoutedEventArgs e)
+        {
+            WindowState = WindowState.Minimized;
+        }
+
+        // Maximize/Restore the window
+        private void MaximizeRestore_Click(object sender, RoutedEventArgs e)
+        {
+            WindowState = (WindowState == WindowState.Normal)? WindowState.Maximized : WindowState.Normal;
+        }
+
+        // Close the window
+        private void Close_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
+        }
+
     }
 }
