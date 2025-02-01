@@ -6,12 +6,27 @@
         xmlns:local="clr-namespace:discord_like"
         mc:Ignorable="d"
         Title="MainWindow" Width="1280" Height="720">
+    
+    <Window.Resources>
+        <Style x:Key="RoundedTextBoxStyle" TargetType="TextBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Background="White" CornerRadius="20">
+                            <ScrollViewer Margin="5" x:Name="PART_ContentHost"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    
     <Grid>
         <!-- Messages layout -->
         <Grid x:Name="message_layout" VerticalAlignment="Center" Height="704" Margin="394,0,291,0">
 
         </Grid>
-        
+
         <Grid x:Name="nav_left">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="80"/>
@@ -50,8 +65,21 @@
                         <ColumnDefinition Width="*"/>
                         <ColumnDefinition Width="350"/>
                     </Grid.ColumnDefinitions>
-                    
-                    <Rectangle Fill="#778DA9" Grid.Column="0" />
+
+                    <Grid Grid.Column="0">
+
+
+                        <Rectangle Fill="#778DA9" />
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="85"/>
+                            </Grid.RowDefinitions>
+                            <TextBox x:Name="MessageBox" Grid.Row="1" TextWrapping="Wrap" Text="" Margin="15"  Style="{StaticResource RoundedTextBoxStyle}"/>
+                        </Grid>
+
+                    </Grid>
+
                     <!-- Information layout -->
                     <Grid Grid.Column="1">
                         <Grid.RowDefinitions>
@@ -65,13 +93,14 @@
                     </Grid>
 
                 </Grid>
-                
+
             </Grid>
 
         </Grid>
-
-
-
-
     </Grid>
+
+    
 </Window>
+    
+
+    
