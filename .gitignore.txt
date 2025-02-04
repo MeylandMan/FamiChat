@@ -1,6 +1,10 @@
 # Visual Studio & .NET Build Artifacts
-bin/
-obj/
+.vs/
+FamiChat/obj/
+FamiChat/bin/
+Server/obj/
+Shared/obj/
+
 *.pdb
 *.exe
 *.dll

@@ -3,68 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\helpers\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\helpers\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|c:\\users\\client\\documents\\github\\famichat\\shared\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|solutionrelative:shared\\utils\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|c:\\users\\client\\documents\\github\\famichat\\shared\\utils\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|solutionrelative:shared\\utils\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\services\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\services\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|c:\\users\\client\\documents\\github\\famichat\\shared\\networking\\packettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|solutionrelative:shared\\networking\\packettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\services\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\services\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|c:\\users\\client\\documents\\github\\famichat\\shared\\networking\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|solutionrelative:shared\\networking\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\services\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\services\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|c:\\users\\client\\documents\\github\\famichat\\shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|solutionrelative:shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\services\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\services\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|c:\\users\\client\\documents\\github\\famichat\\shared\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BDF6B9-1223-4D0C-A00C-9051A9D66FFA}|Shared\\Shared.csproj|solutionrelative:shared\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\models\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\viewmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\views\\chatview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\views\\chatview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2F72698-813C-421B-96FC-7B481F75CEAD}|Server\\Server.csproj|c:\\users\\client\\documents\\github\\famichat\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F72698-813C-421B-96FC-7B481F75CEAD}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,131 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ObservableObject.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Helpers\\ObservableObject.cs",
-              "RelativeDocumentMoniker": "FamiChat\\Helpers\\ObservableObject.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Helpers\\ObservableObject.cs",
-              "RelativeToolTip": "FamiChat\\Helpers\\ObservableObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Utils\\Logger.cs",
+              "RelativeDocumentMoniker": "Shared\\Utils\\Logger.cs",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Utils\\Logger.cs",
+              "RelativeToolTip": "Shared\\Utils\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:43:49.303Z",
+              "WhenOpened": "2025-02-04T21:21:14.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Helpers\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "FamiChat\\Helpers\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Helpers\\RelayCommand.cs",
-              "RelativeToolTip": "FamiChat\\Helpers\\RelayCommand.cs",
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Utils\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "Shared\\Utils\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Utils\\EncryptionHelper.cs",
+              "RelativeToolTip": "Shared\\Utils\\EncryptionHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:43:39.659Z",
+              "WhenOpened": "2025-02-04T21:21:06.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Network.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Services\\Network.cs",
-              "RelativeDocumentMoniker": "FamiChat\\Services\\Network.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Services\\Network.cs",
-              "RelativeToolTip": "FamiChat\\Services\\Network.cs",
+              "Title": "PacketType.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Networking\\PacketType.cs",
+              "RelativeDocumentMoniker": "Shared\\Networking\\PacketType.cs",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Networking\\PacketType.cs",
+              "RelativeToolTip": "Shared\\Networking\\PacketType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:43:04.4Z",
+              "WhenOpened": "2025-02-04T21:20:57.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Encryption.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Services\\Encryption.cs",
-              "RelativeDocumentMoniker": "FamiChat\\Services\\Encryption.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Services\\Encryption.cs",
-              "RelativeToolTip": "FamiChat\\Services\\Encryption.cs",
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Networking\\Packet.cs",
+              "RelativeDocumentMoniker": "Shared\\Networking\\Packet.cs",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Networking\\Packet.cs",
+              "RelativeToolTip": "Shared\\Networking\\Packet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:42:51.888Z",
+              "WhenOpened": "2025-02-04T21:20:51.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Chat.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Services\\Chat.cs",
-              "RelativeDocumentMoniker": "FamiChat\\Services\\Chat.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Services\\Chat.cs",
-              "RelativeToolTip": "FamiChat\\Services\\Chat.cs",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Models\\User.cs",
+              "RelativeToolTip": "Shared\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:42:39.468Z",
+              "WhenOpened": "2025-02-04T21:20:44.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Auth.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Services\\Auth.cs",
-              "RelativeDocumentMoniker": "FamiChat\\Services\\Auth.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Services\\Auth.cs",
-              "RelativeToolTip": "FamiChat\\Services\\Auth.cs",
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Shared\\Models\\Message.cs",
+              "RelativeToolTip": "Shared\\Models\\Message.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:42:30.976Z",
+              "WhenOpened": "2025-02-04T21:20:38.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ChatRoom.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Models\\ChatRoom.cs",
-              "RelativeDocumentMoniker": "FamiChat\\Models\\ChatRoom.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Models\\ChatRoom.cs",
-              "RelativeToolTip": "FamiChat\\Models\\ChatRoom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:41:47.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Models\\User.cs",
-              "RelativeDocumentMoniker": "FamiChat\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Models\\User.cs",
-              "RelativeToolTip": "FamiChat\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:41:38.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Models\\Message.cs",
-              "RelativeDocumentMoniker": "FamiChat\\Models\\Message.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Models\\Message.cs",
-              "RelativeToolTip": "FamiChat\\Models\\Message.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:41:30.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LogInViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\ViewModels\\LogInViewModel.cs",
-              "RelativeDocumentMoniker": "FamiChat\\ViewModels\\LogInViewModel.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\ViewModels\\LogInViewModel.cs",
-              "RelativeToolTip": "FamiChat\\ViewModels\\LogInViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:40:24.691Z",
+              "WhenOpened": "2025-02-04T21:17:59.249Z",
               "EditorCaption": ""
             },
             {
@@ -213,80 +138,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ChatViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\ViewModels\\ChatViewModel.cs",
-              "RelativeDocumentMoniker": "FamiChat\\ViewModels\\ChatViewModel.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\ViewModels\\ChatViewModel.cs",
-              "RelativeToolTip": "FamiChat\\ViewModels\\ChatViewModel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:40:27.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SettingsView.xaml",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Views\\SettingsView.xaml",
-              "RelativeDocumentMoniker": "FamiChat\\Views\\SettingsView.xaml",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Views\\SettingsView.xaml",
-              "RelativeToolTip": "FamiChat\\Views\\SettingsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T20:38:09.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ChatView.xaml",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Views\\ChatView.xaml",
-              "RelativeDocumentMoniker": "FamiChat\\Views\\ChatView.xaml",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Views\\ChatView.xaml",
-              "RelativeToolTip": "FamiChat\\Views\\ChatView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T20:37:48.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LogInView.xaml",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Views\\LogInView.xaml",
-              "RelativeDocumentMoniker": "FamiChat\\Views\\LogInView.xaml",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\Views\\LogInView.xaml",
-              "RelativeToolTip": "FamiChat\\Views\\LogInView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T20:36:13.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "FamiChat\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\MainWindow.xaml",
-              "RelativeToolTip": "FamiChat\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-04T20:32:49.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FamiChat\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\MainWindow.xaml.cs",
-              "RelativeToolTip": "FamiChat\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:09:59.585Z",
-              "EditorCaption": ""
             }
           ]
         }
