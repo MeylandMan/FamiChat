@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|c:\\users\\client\\documents\\github\\famichat\\famichat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31409B2F-ADCA-4BDF-9D3E-65455EBFDD3C}|FamiChat\\Client.csproj|solutionrelative:famichat\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FamiChat\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Client\\Documents\\GitHub\\FamiChat\\FamiChat\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FamiChat\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:09:59.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
