@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
 C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\App.xaml
-11407045341
+4-1249484927
 
-61096157597
+181359237270
 200161758370
-MainWindow.xaml;
+MainWindow.xaml;Views\ChatView.xaml;Views\LogInView.xaml;Views\SettingsView.xaml;
 
 False
 

@@ -39,3 +39,9 @@ C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\refi
 C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\Client.pdb
 C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\Client.genruntimeconfig.cache
 C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\ref\Client.dll
+C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\Views\ChatView.g.cs
+C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\Views\LogInView.g.cs
+C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\Views\SettingsView.g.cs
+C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\Views\ChatView.baml
+C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\Views\LogInView.baml
+C:\Users\Client\Documents\GitHub\FamiChat\FamiChat\obj\Debug\net9.0-windows\Views\SettingsView.baml
